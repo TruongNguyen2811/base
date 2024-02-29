@@ -4,7 +4,6 @@ import 'dart:typed_data';
 import 'package:code_base/services/api/api_result.dart';
 import 'package:code_base/services/api/network_exceptions.dart';
 import 'package:dio/dio.dart';
-
 // ignore: depend_on_referenced_packages
 import 'package:http_parser/http_parser.dart';
 
